@@ -1,0 +1,24 @@
+# Exam material, homework, solutions and datasets
+Exam/
+Exercises/
+
+# R / RStudio artifacts
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.Ruserdata
+.httr-oauth
+*.Rproj
+
+# R Markdown render output
+*.knit.md
+*_cache/
+*_files/
+*.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
