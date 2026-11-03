@@ -43,6 +43,15 @@ Status legend: `[ ]` not started, `[~]` in progress, `[x]` done.
 - R practice: `%*%`, `t()`, `solve()`, `crossprod()`, `eigen()`.
 - Check: compile a test `.Rmd` to PDF; set R and RStudio to English.
 
+Sessions (4 x about 2 h):
+
+| Session | Day | Content |
+|---------|-----|---------|
+| [ ] 1 | Tue 3 Nov | Setup and R Markdown: R and RStudio in English, compile a test `.Rmd` to PDF (tinytex), skim APP p.5-29 and redo only the non-trivial examples. |
+| [ ] 2 | Thu 5 Nov | Matrix algebra, part 1: W A.6.1-A.6.7 (operations, transpose, inverse, orthogonality, rank); a few hand calculations on 2x2 and 3x3 matrices. |
+| [ ] 3 | Sat 7 Nov | Matrix algebra, part 2: W A.7 (random vectors) and A.8 (least squares with matrices). |
+| [ ] 4 | Sun 8 Nov | R practice and review: redo sessions 2-3 in R (`%*%`, `t()`, `solve()`, `crossprod()`, `eigen()`), check key results by hand, write a short `.Rmd` summary (last 30 min = review). |
+
 ### [ ] Week 2 (9 Nov) - Probability refresher
 - TN 1.2 (p.11) and 2.1-2.8 (p.16-32): basic definitions, Gaussian, Student-t, ECDF, QQ plot, expected value and variance, joint and conditional distributions, association, partial correlation.
 - APP p.30-55: credit rating case study, exploratory analysis, generating random values, measures of association.
